@@ -1,1 +1,4 @@
-angular.module('recipeApp', []);
+angular.module('recipeApp', [
+
+    'recipeList'
+]);
